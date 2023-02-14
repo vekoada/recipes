@@ -1,0 +1,1 @@
+This project is a basic html site showing several recipes. It incorporates text, images, linking, and other fundamental elements to demonstrate what I've learned so far.
