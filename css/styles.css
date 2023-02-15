@@ -33,5 +33,15 @@ p {
 }
 
 button {
+    padding-bottom: 0.1%;
     background-color: mintcream;
+    ;
+}
+
+li {
+    padding: 0.2%;
+}
+
+a {
+    text-decoration: none;
 }
