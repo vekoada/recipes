@@ -1,3 +1,7 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 h1 {
     background-color: coral;
     text-align: center;
@@ -14,6 +18,11 @@ img {
 }
 
 .header {
+    display: inline;
+    padding-left: 0.2%;
+}
+
+.header li {
     display: inline;
 }
 
@@ -40,6 +49,7 @@ button {
 
 li {
     padding: 0.2%;
+    padding-left: 0%;
 }
 
 a {
